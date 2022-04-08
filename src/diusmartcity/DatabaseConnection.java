@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author SheikhFoysal
+ * @author SR Joy
  */
 public class DatabaseConnection {
     public Connection getcon() {
